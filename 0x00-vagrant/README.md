@@ -1,1 +1,1 @@
-Linux
+Output of uname command
